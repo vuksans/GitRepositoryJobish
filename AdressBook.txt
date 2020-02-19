@@ -5,3 +5,5 @@ Street: Milovana Dragisica 21
 Gym: Alpha Gym
 Workspace: Schenider electric dms
 Hair color: black
+Age: 25
+Sex: Male
