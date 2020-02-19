@@ -2,3 +2,4 @@ Name: Nikola
 Last Name: Vukasinovic
 Phone: 123-098
 Street: Milovana Dragisica 21
+Gym: Alpha Gym
