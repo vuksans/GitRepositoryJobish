@@ -6,5 +6,4 @@ Gym: Alpha Gym
 Workspace: Schenider electric dms
 Age: 25
 Sex: Male
-Feet size: 45
-Weight: 79kg
+Deleted stuff I don't care about
