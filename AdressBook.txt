@@ -1,3 +1,4 @@
 Name: Nikola
 Last Name: Vukasinovic
 Phone: 123-098
+Gym: Alpha Gym
