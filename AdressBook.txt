@@ -5,3 +5,4 @@ Street: Milovana Dragisica 21
 Gym: Alpha Gym
 Workspace: Schenider electric dms
 Age: 25
+Sex: Male
