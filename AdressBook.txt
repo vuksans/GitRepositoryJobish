@@ -23,3 +23,5 @@ Weight: 4.5kg
 
 Row for mixed reset!
 Random message commit for reset testing!
+Mix reset commit conflicts 2!
+
