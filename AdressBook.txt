@@ -7,11 +7,8 @@ Workspace: Schenider electric dms
 Hair color: black
 Age: 25
 Sex: Male
-<<<<<<< HEAD
-=======
 Feet size: 45
 Weight: 79kg
-*Actually I was joking I care about this information*
 
 Name: Sosa
 Last Name: Vukasinovic
@@ -23,4 +20,5 @@ Age: 1
 Sex: Female
 Paw size: Very tiny
 Weight: 4.5kg
->>>>>>> a48a0ff905b8362856a21bfc16ffc121cdd670a6
+
+Row for mixed reset!
