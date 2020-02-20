@@ -35,13 +35,3 @@ NBA West Playoff teams:
 7.Thunder
 8.Grizzlies
 
-NBA East Playoff teams:
-1.Bucks
-2.Raptors
-3.Heat
-4.Celtics
-5.Indiana
-6.Philly
-7.Nets
-8.Magic
-
