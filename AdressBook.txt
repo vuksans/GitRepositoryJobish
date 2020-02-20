@@ -10,3 +10,10 @@ Sex: Male
 
 Git master checkout lol
 Feature1 added content
+
+Western Conference All-Star starters:
+LeBron James
+Anthony Davis
+Kawahi Leonard
+James Harden
+Luka Doncic
