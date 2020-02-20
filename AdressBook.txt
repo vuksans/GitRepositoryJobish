@@ -24,3 +24,14 @@ Joel Embiid
 Pascal Siakam
 Trey Young
 Kemba Walker
+
+NBA West Playoff teams:
+1.Lakers
+2.Denver
+3.Clippers
+4.Jazz
+5.Rockets
+6.Mavs
+7.Thunder
+8.Grizzlies
+
